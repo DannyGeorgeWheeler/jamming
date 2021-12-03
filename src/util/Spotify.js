@@ -1,6 +1,6 @@
 let token;
 const client_id = 'd46af5ec95ba42cdbc68912a6be47712';
-const redirect_uri = 'http://localhost:3000/';
+const redirect_uri = 'https://jammmify.netlify.app';
 const scope = 'playlist-modify-private';
 
 let url = 'https://accounts.spotify.com/authorize';
